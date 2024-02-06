@@ -1,0 +1,2 @@
+# snappApp
+snappApp as sample
